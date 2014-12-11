@@ -1,0 +1,19 @@
+{
+  "name": "exposejs",
+  "version": "0.0.1",
+  "description": "Javascript symbol exporter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nomic/expose"
+  },
+  "author": "Gabriel Silk and Aaron Boyd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nomic/expose/issues"
+  },
+  "homepage": "https://github.com/nomic/expose"
+}
